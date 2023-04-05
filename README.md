@@ -5,11 +5,11 @@
 <h1 align="center"> <img src="https://doc.rust-lang.org/stable/book/img/ferris/does_not_compile.svg" alt="rust" width="100" height="100"> Learning Rust <img src="https://doc.rust-lang.org/stable/book/img/ferris/panics.svg" alt="rust" width="100" height="100"> </h1>
 
 <p align="center">
-  <img alt="Github top language" src="https://img.shields.io/github/languages/top/anoliveisolcap/learning_rust?color=ff6600">
+  <img alt="Github top language" src="https://img.shields.io/github/languages/top/anolivei/Learning_rust?color=ff6600">
 
-  <img alt="Github language count" src="https://img.shields.io/github/languages/count/anoliveisolcap/learning_rust?color=ff6600">
+  <img alt="Github language count" src="https://img.shields.io/github/languages/count/anolivei/Learning_rust?color=ff6600">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/anoliveisolcap/learning_rust?color=ff6600">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/anolivei/Learning_rust?color=ff6600">
 
 </p>
 
